@@ -1,0 +1,11 @@
+{
+  "name": "@elhss/backpack_server1",
+  "version": "1.0.0",
+  "description": "a server az module for project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elham Hosseini",
+  "license": "ISC"
+}
